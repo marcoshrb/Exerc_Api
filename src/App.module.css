@@ -7,6 +7,7 @@
   gap: 1vw;
   position: fixed;
   background-color: black;
+  z-index: 100;
 
 }
 
